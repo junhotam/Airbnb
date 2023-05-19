@@ -12,13 +12,11 @@ Though not specified in the project brief, I applied some machine learning, empl
 
 Here are the deliverables that were produced in this project:
 
-  - [Python Analysis Scripts](/Python%20Scripts/)
+  - [Python Analysis Scripts](/code/)
 
-  - [Folder of Visualizations](/Visualizations/)
-
-  - [Report](/Report_InstaCart_Data_Analysis.xlsx)
+  - [Tableau Storyboard](https://public.tableau.com/views/airbnb_16838383178440/story?:language=en-US&:display_count=n&:origin=viz_share_link)
   
 
 ### *Data*
 
-The data that was used in this project can be found [here](/Data/). Description of the data can be found in the project information [here](/project%20information.pdf).
+The data that was used in this project can be found [here](/data/). Description of the data can be found in the project information [here](/project%20information.pdf).
