@@ -21,4 +21,4 @@ Here are the deliverables that were produced in this project:
 
 ### *Data*
 
-The data that was used in this project can be found [here](https://www.instacart.com/datasets/grocery-shopping-2017)
+The data that was used in this project can be found [here](/Data/). Description of the data can be found in the project information [here](/project%20information.pdf).
