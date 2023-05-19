@@ -4,9 +4,7 @@ This repository contains work, done in Python and Tableau, that aims at analyzin
 
 ### *Premise*
 
-The full premise of the project can be found [here](/Project%20Management/A4_Data_Project%20Brief.pdf), or in the project management folder. 
-
-Though not specified in the project brief, I applied some machine learning, employing some basic models such as a XGBoost Classifier and Market Bsket Analysis, to further the analysis done upon InstaCart's data. 
+In this project I explore Airbnb data from some of the main European cities to discover insights for both providers and users on Airbnb. 
 
 ### *Deliverables*
 
